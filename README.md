@@ -8,6 +8,12 @@
 
 ![DruhyKonecHry](https://user-images.githubusercontent.com/42646031/151656261-d7f3ba7b-bb65-46cb-b111-87560988e1a0.png)
 
-# Karetnich_21-OkoBere
+### EN:
+
+Try to obtain 21 and win the game!
+
+Black Jack have a basic random number generator that uses a counter for previous card
+
+### Karetnich_21-OkoBere
 
 Karetnich 21 nebo zname jako oko bere, je hra z knihy začínáme programovat hry v jazyce C#
